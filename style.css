@@ -1,0 +1,22 @@
+body {
+    background-color:lightgoldenrodyellow;
+}
+.vasak {
+    float: left;
+}
+h1 {
+    color:yellowgreen;
+    font-family:verdana;
+}
+p {
+    font-size:200%;
+    font-family:courier;
+}
+h2 {
+    font-size:200%;
+    font-family:courier;
+    color:darkolivegreen
+}
+img {
+    border: 10px solid rgb(55, 94, 64);
+}
